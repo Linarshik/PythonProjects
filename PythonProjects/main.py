@@ -7,8 +7,8 @@ trainer_id:559
 
 body = {
     "trainer_token": TOKEN,
-    "email": "linar301@yandex.ru",
-    "password": "Rapid301Pokemon"
+    "email": "linar@yandex.ru",
+    "password": "RapiPoke123"
 }
 
 body_confirm = {
